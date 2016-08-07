@@ -13,7 +13,7 @@ A refresher on ye good ole makers boris bikes kata.
 - [x] Back to the unit
 - [x] Building a bike
 - [x] Making Docking Stations get Bikes
-- [ ] Using Instance Variables
+- [x] Using Instance Variables
 - [ ] Raising Exceptions
 - [ ] Limiting Capacity
 - [ ] Using Complex Attributes
