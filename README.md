@@ -7,8 +7,8 @@ A refresher on ye good ole makers boris bikes kata.
 - [x] Working with User Stories
 - [x] From a Domain Model to a Feature Test
 - [x] Errors are good
-- [ ] From Feature Tests to Unit Tests
-- [ ] Passing your first Unit Test
+- [x] From Feature Tests to Unit Tests
+- [x] Passing your first Unit Test
 - [ ] Back to the feature
 - [ ] Back to the unit
 - [ ] Building a bike
