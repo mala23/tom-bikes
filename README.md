@@ -14,7 +14,7 @@ A refresher on ye good ole makers boris bikes kata.
 - [x] Building a bike
 - [x] Making Docking Stations get Bikes
 - [x] Using Instance Variables
-- [ ] Raising Exceptions
+- [x] Raising Exceptions
 - [ ] Limiting Capacity
 - [ ] Using Complex Attributes
 - [ ] The Single Responsibility Principle
