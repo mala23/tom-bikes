@@ -11,7 +11,7 @@ A refresher on ye good ole makers boris bikes kata.
 - [x] Passing your first Unit Test
 - [x] Back to the feature
 - [x] Back to the unit
-- [ ] Building a bike
+- [x] Building a bike
 - [ ] Making Docking Stations get Bikes
 - [ ] Using Instance Variables
 - [ ] Raising Exceptions
