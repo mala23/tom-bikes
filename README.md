@@ -9,8 +9,8 @@ A refresher on ye good ole makers boris bikes kata.
 - [x] Errors are good
 - [x] From Feature Tests to Unit Tests
 - [x] Passing your first Unit Test
-- [ ] Back to the feature
-- [ ] Back to the unit
+- [x] Back to the feature
+- [x] Back to the unit
 - [ ] Building a bike
 - [ ] Making Docking Stations get Bikes
 - [ ] Using Instance Variables
